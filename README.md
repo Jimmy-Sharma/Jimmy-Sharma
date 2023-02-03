@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-
+I am Prince Sharma
+<!-- <-- hvgh --> -->
+Durgapur,West Bengal
 <!-- **i-m-prince/i-m-prince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
