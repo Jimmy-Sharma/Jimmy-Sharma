@@ -20,7 +20,7 @@ Hi, welcome to my git hub profile hope you gonna like it
 
 
 ## 🌐 Socials:
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i._.m_prince)  -->
+[![Portfolio](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://i-m-prince.github.io/) 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PrinceSharma) 
 
 # 💻 Tech Stack:
