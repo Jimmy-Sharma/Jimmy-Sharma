@@ -20,7 +20,7 @@ Hi, welcome to my git hub profile hope you gonna like it
 
 
 ## 🌐 Socials:
-[![Portfolio](https://cdn-icons-png.flaticon.com/128/639/639394.png)](https://i-m-prince.github.io/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://i-m-prince.github.io/) 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PrinceSharma) 
 
 # 💻 Tech Stack:
