@@ -34,3 +34,39 @@ Hi, welcome to my git hub profile hope you gonna like it
 [![](https://visitcount.itsvg.in/api?id=i-m-prince&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+Hi 👋, I'm Moumita Das
+I am very passionate to create Interactive websites.
+
+
+Coding
+
+🌱 I’m currently learning MERN Stack Devoloper
+
+💬 Ask me about react,JavaScript,Redux
+
+📫 How to reach me dasmoumita.me@gmail.com
+
+🪪 Check My protfolio :- https://moumita7.github.io/
+
+📄 Know about my experiences:- Resume
+
+
+
+Connect with me:
+moumita7 moumita7
+
+🚀 Languages and Tools:
+Frontend
+html5 css3 javascript reactjs redux chakra-ui
+Backend
+nodejs expressjs mongodb mongoose jwt
+Tools
+git git git github npm
+📊 My Github Stats
+moumita7 Top Languages
+
+moumita7 streak
+
+moumita7 Github Stats
