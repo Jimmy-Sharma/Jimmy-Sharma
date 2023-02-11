@@ -65,13 +65,4 @@
              <p align="center">                                                                                                 
           <img alt="prince Github Stats" src="https://github-readme-stats.vercel.app/api?username=i-m-prince&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
           </p>                                                                
-<!--       <br/> -->
-<!--       <br/> -->
-<a href="https://github.com/moumita7/github-readme-activity-graph"><img alt="moumita7 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=moumita7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
-<p align="center">
-<img  align="center" alt="moumita7 Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moumita7&theme=dracula" alt="img" /></p>
-
-<br/>
