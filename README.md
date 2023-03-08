@@ -12,7 +12,7 @@
 - 💬 Ask me about **React,JavaScript,Redux**
 
 - 📫 How to reach me **prince786no.1@gmail.com**
-- 🪪 Check My protfolio :- **https://i-m-prince.github.io/**
+- 🪪 Check My protfolio :- **https://Jimmy-Sharma.github.io/**
 - 📄 Know about my experiences:- <a href="https://drive.google.com/file/d/11hj-XAex1zlYmribSLNlV4LQ5Eg-5js6/view?usp=share_link" alt="resume">Resume</a>
 <br/>
 <br/>
