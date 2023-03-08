@@ -57,12 +57,12 @@
 <h2 align="center">📊 My Github Stats</h2>
 <!--          <br/>    -->
           <p align="center">      
-        <img alt="prince Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-m-prince&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+        <img alt="prince Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-Sharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
             </p>      
 <!--            <br/> -->
          <p align="center">
-              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="prince streak" src="https://github-readme-streak-stats.herokuapp.com/?user=i-m-prince&theme=dark&hide_border=false"/>
+              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="prince streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jimmy-Sharma&theme=dark&hide_border=false"/>
              <p align="center">                                                                                                 
-          <img alt="prince Github Stats" src="https://github-readme-stats.vercel.app/api?username=i-m-prince&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+          <img alt="prince Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jimmy-Sharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
           </p>                                                                
 
