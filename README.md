@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prince Sharma</h1>
 <h2 align="center">I am very passionate to create Interactive websites.</h2>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My name is Prince Sharma; I am a Full-Stack%20Web%20Developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
